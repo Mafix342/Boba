@@ -1,0 +1,15 @@
+body {
+    margin: 0 auto;
+    background:url(./изображение_viber_2022-09-29_15-15-48-986.jpg)no-repeat center center;
+    width: 100%;
+    height: 1000px;
+    background-size:cover ;
+}
+h1{}
+.text_name{
+    width: 100%;
+    height: 300px;
+    color: aliceblue;
+    justify-content: center;;
+    text-align: center;
+}
